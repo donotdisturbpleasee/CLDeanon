@@ -37,7 +37,7 @@
 • git clone https://github.com/donotdisturbpleasee/CLDeanon <br>
 • cd CLDeanon <br>
 • python3 install.py <br>
-• python3 main.py <br>
+• python3 main.py
 
 <br>Приятного пользования! :3<br>
 
