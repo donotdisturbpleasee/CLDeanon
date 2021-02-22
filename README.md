@@ -42,4 +42,4 @@
 <br>Приятного пользования! :3<br>
 
 
-<br><br><b>Telegram канал разработчика:</b> https://t.me/CrackLine.
+<br><b>Telegram канал разработчика:</b> https://t.me/CrackLine.
